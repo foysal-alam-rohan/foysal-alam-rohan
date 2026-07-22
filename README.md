@@ -1,4 +1,18 @@
 # 👋 Hey, I'm FA Rohan  
+
+---
+
+### 🧠 About Me
+- 💙 Deeply in love with **TypeScript** – type safety makes me happy  
+- 🌱 Currently mastering **React, and Node.js** with TypeScript  
+- 💡 I build stuff that’s both **fast** and **maintainable**  
+
+### 📱 Redmi Vibe
+> *“Code like a flagship, but stay affordable like a Redmi.”*  
+> – Me, probably  
+
+---
+
 ## 💻 Programming Languages
 
 <p>
@@ -34,18 +48,8 @@
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-
----
-
-### 🧠 About Me
-- 💙 Deeply in love with **TypeScript** – type safety makes me happy  
-- 🌱 Currently mastering **React, and Node.js** with TypeScript  
-- 💡 I build stuff that’s both **fast** and **maintainable**  
-
-### 📱 Redmi Vibe
-> *“Code like a flagship, but stay affordable like a Redmi.”*  
-> – Me, probably  
 
 ---
 
