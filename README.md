@@ -100,7 +100,7 @@ I'm passionate about building modern, scalable, and maintainable web application
 
 <p>
   📧 <strong>Email:</strong>
-  <a href="mailto:mdfoysalalam143@gmail.com">mdr711780@gmail.com</a>
+  <a href="mailto:mdfoysalalam143@gmail.com">mdfoysalalam143@gmail.com</a>
 </p>
 
 <p>
